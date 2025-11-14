@@ -55,7 +55,7 @@ Psychographic Segmentation
 - preference: Users openness to using a platform to facilitate rent
 - perception of agent fee
 
-  Demographic segmentation
-  - Not included as the dataset did not capture demographic variables such as age, gender or income.
+Demographic segmentation
+-  Not included as the dataset did not capture demographic variables such as age, gender or income.
 
 
