@@ -42,9 +42,19 @@ Role based segmentation
 - House Owners/Landlord :Property owners renting out their properties
 
 Geographic Segmentation
-- Region Distribution : Analysis of user residency by state under region
+- Distribution of regions by state : Analysis of user residency by state and region
+- satisfaction rating: Variation in scam rate
 
 Behavioral Segementation 
-- Recent Renters: Users who have rented in Nigeria in the last three years
-- Non - Renters : Users who have not rented in nigeria in the last three years
-- 
+- Rental status : Recent Renters and Non renters. Users who have rented in Nigeria in the last three years and users who haven't
+- preference : willingness to adopt a verified rental platform, bypassing agents/landlord and leasing choices
+  
+Psychographic Segmentation
+- Priorities: Budget Constraints
+- Pain Points: Challenges user face in rental process, 
+- preference: Users openness to using a platform to facilitate rent
+- perception of agent fee
+
+  Demographic segmentation: Not included as the dataset did not capture demographic variables such as age, gender or income.
+
+
