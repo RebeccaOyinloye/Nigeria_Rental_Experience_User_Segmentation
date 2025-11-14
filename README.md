@@ -22,7 +22,7 @@ The primary source of the data used was from an online survey collected by the t
 
 ### Data Cleaning  and Preparation
 ---
-In the initial preparation phase i performed the following tasks:
+In the initial preparation phase, i performed the following tasks:
 1. Data loading and Inspection
 2. Data Cleaning and Normalization
 3. Removing duplicate and handling missing values
@@ -55,6 +55,7 @@ Psychographic Segmentation
 - preference: Users openness to using a platform to facilitate rent
 - perception of agent fee
 
-  Demographic segmentation: Not included as the dataset did not capture demographic variables such as age, gender or income.
+  Demographic segmentation
+  - Not included as the dataset did not capture demographic variables such as age, gender or income.
 
 
